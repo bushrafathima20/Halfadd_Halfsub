@@ -1,4 +1,4 @@
-# Halfadd_Halfsub
+# HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
@@ -18,7 +18,7 @@ Half adder is a combinational circuit that performs simple addition of two binar
 
 Sum = A’B+AB’ =A ⊕ B Carry = AB
 
-Screenshot 2025-12-10 221703
+
 Figure -01 HALF ADDER
 
 Half Subtractor
@@ -27,7 +27,7 @@ The half-subtractor is a combinational circuit which is used to perform subtract
 
 Diff = A’B+AB’ =A ⊕ B Borrow = A’B
 
-Screenshot 2025-12-10 221948
+
 Figure -02 HALF Subtractor
 
 Truthtable
